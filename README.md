@@ -5,7 +5,7 @@ Im experienced in creating detailed assets, scenes, and layouts for various proj
 
 Im constantly improving my skills and exploring new techniques in 3D design.
 
-<p align="center">
+<p align="left">
   <a href="https://create.roblox.com/talent/creators/355064701">
     <img src="https://skillicons.dev/icons?i=blender,robloxstudio,lua"/>
   </a>
